@@ -1,0 +1,6 @@
+{
+  "name": "System Codex: Python Operations",
+  "description": "An industrial-grade, retro-futuristic Python learning game and interactive workstation simulator. Master genuine programming through hands-on diagnostics, AST static analysis, and 5-stage adaptive feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
